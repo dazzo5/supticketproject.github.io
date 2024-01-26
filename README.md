@@ -3,8 +3,7 @@ View the project here: https://youtu.be/UzwnrSPnZ98
 ---
 ## Technologies I gained exposure to:
 - MongoDB, Express.js, React.js, Node.js.
-- Mongoose, Axios, and State  Management for a smooth user experience.
-- For the front-end styling, I used CSS and bootstrap.
+- Mongoose, Axios, CSS, BootStrap, Postman, REST API's, JWT.
 - For authentication, I used JSON web Tokens and bycrypt for password hashing. I learned how to secure routes and manage user sessions.
 
 ## USERS CAN:
@@ -23,11 +22,11 @@ View the project here: https://youtu.be/UzwnrSPnZ98
 - How to connect your backend to a database
 - How to restrict routes
 - How to set up routes
-- How to handle logging in and creating a valid json web token
+- How to handle logging in and creating a valid JSON web token
 - How to add and change information in the database
 - How to get information from a database
 - How to create database models
-- How to test your backend with REST client and postman
+- How to test your backend with REST client and Postman
 - How to use React Router
 - How to connect your frontend to the backend
 
