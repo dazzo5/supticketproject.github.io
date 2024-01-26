@@ -16,7 +16,7 @@ View the project here: https://youtu.be/UzwnrSPnZ98
 
 ---
 
-## #WHAT I LEARNED:
+## WHAT I LEARNED:
 - How to handle different types of requests to your API
 - How to handle errors
 - How to connect your backend to a database
